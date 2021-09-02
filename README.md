@@ -12,7 +12,7 @@ Here is the link to my portfolio site: [Website](https://aparna-sakshi.github.io
 
 - 🔭 I’m currently contributing to [sktime](https://github.com/alan-turing-institute/sktime) which is a library to do time series analysis
 - 🌱 I’m currently exploring reinforcement learning, quantitative finance and time series regression
-- 👯 I’m looking to collaborate on any Software/Data Science/Quant projects
+- 👯 I’m looking to collaborate on any Software/Data Science/Quant/Open Source projects
 - 🤔 I’m looking for a motivated peer group for group coding and participating in hackathons
 - 💬 Ask me about Unity, AR/VR, Data Science, Competetive Programming, etc
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aparna-sakshi/)
