@@ -10,7 +10,7 @@ I am currently a 4th undergraduate pursuing Mathematics and Computing at IIT Kha
 Here is the link to my portfolio site: [Website](https://aparna-sakshi.github.io/)
 
 
-- 🔭 I’m currently contributing to sktime which is a library to do time series analysis
+- 🔭 I’m currently contributing to [sktime](https://github.com/alan-turing-institute/sktime) which is a library to do time series analysis
 - 🌱 I’m currently exploring reinforcement learning, quantitative finance and time series regression
 - 👯 I’m looking to collaborate on any Software/Data Science/Quant projects
 - 🤔 I’m looking for a motivated peer group for group coding and participating in hackathons
